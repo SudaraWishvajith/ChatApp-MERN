@@ -1,5 +1,5 @@
-const ChatPage = () =>{
+const ChatsPage = () =>{
     return <div className="background">chats...</div>;
 };
 
-export default ChatPage;
+export default ChatsPage;
